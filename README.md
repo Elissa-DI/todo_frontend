@@ -1,5 +1,9 @@
 # Todo Frontend
 
+![Sign In](public/signin.png)
+![Sign Up](public/signup.png)
+![Mobile View](public/mobile1.png)
+
 Welcome to the Todo Frontend application, a robust solution for managing your tasks efficiently. This application is built using modern tools and libraries, including ShadCN, Tailwind CSS, React, Vite, and Redux.
 
 ## Table of Contents
